@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04571fb6.chunk.css",
+    "main.js": "/static/js/main.31532ede.chunk.js",
+    "main.js.map": "/static/js/main.31532ede.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11725b88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11725b88.js.map",
+    "static/css/2.99fdc27e.chunk.css": "/static/css/2.99fdc27e.chunk.css",
+    "static/js/2.39d4d0b2.chunk.js": "/static/js/2.39d4d0b2.chunk.js",
+    "static/js/2.39d4d0b2.chunk.js.map": "/static/js/2.39d4d0b2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.99fdc27e.chunk.css.map": "/static/css/2.99fdc27e.chunk.css.map",
+    "static/css/main.04571fb6.chunk.css.map": "/static/css/main.04571fb6.chunk.css.map",
+    "static/js/2.39d4d0b2.chunk.js.LICENSE.txt": "/static/js/2.39d4d0b2.chunk.js.LICENSE.txt",
+    "static/media/ClassBoking.cd1acc28.png": "/static/media/ClassBoking.cd1acc28.png",
+    "static/media/Deal1.ac2b2fe7.png": "/static/media/Deal1.ac2b2fe7.png",
+    "static/media/WinF.1899d204.png": "/static/media/WinF.1899d204.png",
+    "static/media/Zayed_Hasan.12888969.pdf": "/static/media/Zayed_Hasan.12888969.pdf",
+    "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
+    "static/media/intern.5e911c26.png": "/static/media/intern.5e911c26.png",
+    "static/media/thikana.f4927cd5.png": "/static/media/thikana.f4927cd5.png",
+    "static/media/zayed.3b19c1d3.jpg": "/static/media/zayed.3b19c1d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11725b88.js",
+    "static/css/2.99fdc27e.chunk.css",
+    "static/js/2.39d4d0b2.chunk.js",
+    "static/css/main.04571fb6.chunk.css",
+    "static/js/main.31532ede.chunk.js"
+  ]
+}
